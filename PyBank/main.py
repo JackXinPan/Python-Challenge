@@ -47,3 +47,4 @@ print(f"Total: ${totalprofit}")
 print(f"Average Change ${round(sum(changelist) / len(changelist), 2):.2f}")
 print(f"Greatest Increase in Profits: {profitdate} (${increase})")
 print(f"Greatest Decrease in Profits: {lossdate} (${decrease})")
+
